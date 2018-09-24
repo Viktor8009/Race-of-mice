@@ -1,0 +1,5 @@
+E:\PROGRAMS\VISUALC#_LESSONS\C#_CONSOLE_APPS\Excercise11\mouseSimulation\mouseSimulation\bin\Debug\mouseSimulation.exe
+E:\PROGRAMS\VISUALC#_LESSONS\C#_CONSOLE_APPS\Excercise11\mouseSimulation\mouseSimulation\bin\Debug\mouseSimulation.pdb
+E:\PROGRAMS\VISUALC#_LESSONS\C#_CONSOLE_APPS\Excercise11\mouseSimulation\mouseSimulation\obj\x86\Debug\mouseSimulation.exe
+E:\PROGRAMS\VISUALC#_LESSONS\C#_CONSOLE_APPS\Excercise11\mouseSimulation\mouseSimulation\obj\x86\Debug\mouseSimulation.pdb
+E:\PROGRAMS\VISUALC#_LESSONS\C#_CONSOLE_APPS\Excercise11\mouseSimulation\mouseSimulation\obj\x86\Debug\mouseSimulation.csprojResolveAssemblyReference.cache
